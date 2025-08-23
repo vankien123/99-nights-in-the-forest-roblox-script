@@ -32,7 +32,3 @@ Executor + script  --- [ScriptPacked](https://www.mediafire.com/file/otdgaoctqo4
 - Private server recommended
 
 
-
--- Or use alternative load method
-local script = game:HttpGet("https://example.com/script.lua")
-loadstring(script)()
